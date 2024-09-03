@@ -57,7 +57,7 @@ order:  5
   *  Information Discovery and Delivery:  [[SI: Information Discovery with Machine Intelligence for Language](https://www.emerald.com/insight/publication/issn/2398-6247/vol/48/iss/3)]
   * Information: [[SI: Information Extraction and Language Discourse Processing](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD)]
   * Journal of Data and Information Science: [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://www.sciendo.com/issue/JDIS/6/3)]
-  * Data and Information Management: [[SI: Knowledge Entity Extraction and Text Mining in the Era of Big Data](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)]
+  * Data and Information Management: [[SI: LLMs for Scientific Literature Analysis and Mining](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining)], [[SI: Knowledge Entity Extraction and Text Mining in the Era of Big Data](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)]
 
 ## Editorial Board Member
   * Patterns
