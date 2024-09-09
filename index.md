@@ -13,7 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
-* ***Call for Paper***: Special isssue about "Artificial Intelligence for Scientometrics" at [***Scientometrics***](https://link.springer.com/collections/cihcbgccda) 
+* ***Call for Paper***: Special isssue about "Artificial Intelligence for Scientometrics" at [***Scientometrics***](https://link.springer.com/journal/11192/updates/27667480) 
 * ***Call for Paper***: Special isssue about "LLMs for Scientific Literature Analysis and Mining" at [***Data and Information Management***](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining)
 * ***Call for Paper*** : 2nd Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([***IMSC2024***](https://imsc-committee.github.io/JCDL2024-IMSCworkshop/))
 * Call For Posters and Demos:  2024 ACM/IEEE Joint Conference on Digital Libraries ([JCDL2024 Posters and Demos](https://2024.jcdl.org/call-for-posters-and-demos/)), Face to face session in Hong Kong
