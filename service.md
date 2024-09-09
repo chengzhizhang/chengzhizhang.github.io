@@ -21,6 +21,7 @@ order:  5
   * 2nd Workshop on AI + Informetrics ([AII2022](https://ai-informetrics.github.io/2022/)) affiliated with the ([IP&MC 2022 Annual Conference](https://www.elsevier.com/events/conferences/information-processing-and-management-conference)) 
   * 1st Workshop on AI + Informetrics: Multi-disciplinary Interactions in the Era of Big Data ([AII2021](https://ai-informetrics.github.io/aii2021.html)).  [[Proceedings]](http://ceur-ws.org/Vol-2871/) 
 * ***Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data***
+  * 2nd Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([IMSC2024](https://imsc-committee.github.io/JCDL2024-IMSCworkshop/))
   * 1st Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([IMSC2023](https://jcdl2023workshop-imsc.github.io/IMSC2023-workshop/))
     
 ## Poster / Workshops & Panels Chair
