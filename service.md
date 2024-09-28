@@ -50,6 +50,7 @@ order:  5
   * [Frontiers in Research Metrics and Analytics (Text-mining and Literature-based Discover)](https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/text-mining-and-literature-based-discovery)
 
 ## Guest Editors 
+  * Technological Forecasting and Social Change: [[AI + Informetrics for Tech Mining]](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change/about/call-for-papers#ai-informetrics-for-tech-mining)
   * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://doi.org/10.1016/j.ipm.2023.103495)]
   * Journal of Informetrics: [[SI: AI + Informetrics](https://www.sciencedirect.com/special-issue/10VSKW931LL)]
   * Scientometrics: [[SI: Artificial Intelligence for Scientometrics](https://link.springer.com/collections/cihcbgccda)], [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
