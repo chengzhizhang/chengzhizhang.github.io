@@ -7,7 +7,7 @@ order:  3
 ---
  (*=corresponding author)
 ## 2025 
-* [J84] Chengzhi Zhang, Yi Mao, Shuyu Peng. Data-Driven Evolution of Library and Information Science Research Methods (1990–2022): A Perspective Based on Fine-grained Method Entities. ***Scientometrics***. 2025 (in press)
+* [J84] Chengzhi Zhang, Yi Mao, Shuyu Peng. Data-Driven Evolution of Library and Information Science Research Methods (1990–2022): A Perspective Based on Fine-grained Method Entities. ***Scientometrics***. 2025 (in press) [[doi]]()
 * [J83] Tong Bao, Heng Zhang, Chengzhi Zhang\*. Enhancing Abstractive Summarization of Scientific Papers Using Structure Information. ***Expert Systems With Applications***, 2025, 261: 125529. [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)   [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
 * [J82] Haomin Zhou, Ruxue Han, Jiangtao Zhong, Chengzhi Zhang\*. Which Review Aspect Has a Greater Impact on the Duration of Open Peer Review in Multiple Rounds? —— Evidence from Nature Communications. ***Aslib Journal of Information Management***. 2025 (in press) [[doi]]( https://doi.org/10.1108/AJIM-02-2024-0158)
  
