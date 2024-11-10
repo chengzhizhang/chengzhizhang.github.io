@@ -40,15 +40,15 @@ order:  6
 <!--{
 % include collaborator.html people=site.data.collaborators.former-masters %}
 -->
-* Xinlong Chu, 2021, master thesis: Mining Research Methods for Academic Articles in the Field of Humanities and Social Sciences
-* Siqi Wei, 2021, master thesis: Gender differences in research topic and method selection by Scholars in Specific Fields
-* Shuyu Peng, 2021, master thesis: Paradigm Shifts in Specific Domain Based on Research Topics and Methods of Academic Paper
-* Zile Hu, 2021, master thesis: Scientific Research Cooperation Models and Influencing Factors between Countries in a Specific Field
-* Wenqi Yu, 2021, master thesis: Academic Paper Keyword Extraction by Integrating User Reading Behavior and Text Content Features and its Recommended Application
-* Yukai Yang, 2021, master thesis: Relationship Between Academic and Industrial Collaboration and Academic Impact in Specific Fields
-* Haochuan Li, 2021, master thesis: Relationship between Research Difficulty and Academic Influence of Academic Articles in a Specific Domain
-* Liang Tian, 2023, master thesis: Cross-lingual Classification and Usage Patterns Analysis of Research Methods of Academic Articles
-* Lei Zhao, 2023, master thesis: Using Text Structure and Automatic Summarization to Extract Keywords from Academic Papers  
+* Xinlong Chu, MSc 2024, master thesis: Mining Research Methods for Academic Articles in the Field of Humanities and Social Sciences
+* Siqi Wei, MSc 2024, master thesis: Gender differences in research topic and method selection by Scholars in Specific Fields
+* Shuyu Peng, MSc 2024, master thesis: Paradigm Shifts in Specific Domain Based on Research Topics and Methods of Academic Paper
+* Zile Hu, MSc 2024, master thesis: Scientific Research Cooperation Models and Influencing Factors between Countries in a Specific Field
+* Wenqi Yu, MSc 2024, master thesis: Academic Paper Keyword Extraction by Integrating User Reading Behavior and Text Content Features and its Recommended Application
+* Yukai Yang, MSc 2024, master thesis: Relationship Between Academic and Industrial Collaboration and Academic Impact in Specific Fields
+* Haochuan Li, MSc 2024, master thesis: Relationship between Research Difficulty and Academic Influence of Academic Articles in a Specific Domain
+* Liang Tian, MSc 2023, master thesis: Cross-lingual Classification and Usage Patterns Analysis of Research Methods of Academic Articles
+* Lei Zhao, MSc 2023, master thesis: Using Text Structure and Automatic Summarization to Extract Keywords from Academic Papers  
 * Yuxin Xie, MSc 2022, master thesis: Extraction of Fine-grained Method Entities in the Full-text Content of Academic Articles and Their Association and Evolution Analysis
 * Minghui Meng, MSc 2022, master thesis: Sentiment Analysis of Online Peer Reviews and Application
 * Ruping Wang, MSc 2021, master thesis: Methodological Sentences Recognition and Automatic Summarization Based upon Full-text of Academic Articles
