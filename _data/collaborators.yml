@@ -3,14 +3,10 @@ phd-students-first:
   -
     name: Bowen Li
     tagline: Methodology in information science.
-  - 
-    name: Heng Zhang
-    url: https://www.researchgate.net/profile/Heng_Zhang118 
-    tagline: Taxonomy generation, Software entity extraction.
   -
     name: Yi Zhao
     url: https://www.researchgate.net/profile/Yi_Zhao162   
-    tagline: Scholar profiling.
+    tagline: Scholar profiling, Team Science.
   -
     name: Haixu Xi
     url: https://www.researchgate.net/profile/Haixu_Xi2
@@ -22,11 +18,11 @@ phd-students-first:
   -  
     name: Tong Bao
     url: https://tongbao96.github.io/   
-    tagline: Knowledge Entity Extraction.
+    tagline: Knowledge Entity Extraction, Automatic Summary Generation.
   -  
     name: Wenqing Wu
     url: https://njust-winchy.github.io/  
-    tagline: Peer Reveiw Mining.
+    tagline: Peer Reveiw Mining, Novelty Measuring of Scientific Article.
   -  
     name: Xinyi Yan
     url: https://yan-xinyi.github.io/  
@@ -38,9 +34,19 @@ phd-students-first:
   -  
     name: Hongye Zhao
     url:    
-    tagline: Knowledge Entity Extraction and Evaluation.   
+    tagline: Knowledge Entity Extraction and Evaluation.  
+  -  
+    name: Chenggang Yang
+    url:    
+    tagline: Peer Reveiw Mining, Novelty Measuring of Scientific Article.  
 project-students:
 former-phd:
+  - 
+    name: Heng Zhang
+    url: https://www.researchgate.net/profile/Heng_Zhang118 
+    tagline: "PhD 2024, now: Assistant Professor at Central China Normal University."
+    description: >
+      PhD Thesis: Research Process Mining in a Specific Field Based on the Full Text of Academic Articles.
   -
     name: Yuzhuo Wang
     url: https://www.researchgate.net/profile/Yuzhuo_Wang7 
