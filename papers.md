@@ -7,9 +7,9 @@ order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
 ## 2025 
-* [J77] Chengzhi Zhang, Yi Mao, Shuyu Peng. Data-Driven Evolution of Library and Information Science Research Methods (1990–2022): A Perspective Based on Fine-grained Method Entities. ***Scientometrics***. 2025 (in press) [[doi]]()
+* [J77] Chengzhi Zhang, Yi Mao, Shuyu Peng. Data-Driven Evolution of Library and Information Science Research Methods (1990–2022): A Perspective Based on Fine-grained Method Entities. ***Scientometrics***. 2025 (in press) [[doi]](https://doi.org/10.1007/s11192-024-05202-0)
 * [J76] Tong Bao, Heng Zhang, Chengzhi Zhang\*. Enhancing Abstractive Summarization of Scientific Papers Using Structure Information. ***Expert Systems With Applications***, 2025, 261: 125529. [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)   [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
-* [J75] Haomin Zhou, Ruxue Han, Jiangtao Zhong, Chengzhi Zhang\*. Which Review Aspect Has a Greater Impact on the Duration of Open Peer Review in Multiple Rounds? —— Evidence from Nature Communications. ***Aslib Journal of Information Management***. 2025 (in press) [[doi]]( https://doi.org/10.1108/AJIM-02-2024-0158)
+* [J75] Haomin Zhou, Ruxue Han, Jiangtao Zhong, Chengzhi Zhang\*. Which Review Aspect Has a Greater Impact on the Duration of Open Peer Review in Multiple Rounds? —— Evidence from Nature Communications. ***Aslib Journal of Information Management***. 2025 (in press) [[doi]](https://doi.org/10.1108/AJIM-02-2024-0158)
  
 ## 2024
 * [P6] Chengzhi Zhang, Yi Zhang, Philipp Mayr, Wei Lu, Arho Suominen, Haihua Chen and Ying Ding. ***Proceedings of Joint Workshop of the 5th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE2024) and the 4th AI + Informetrics (AII2024)***，co-located with iConference2024, Changchun, China and Online, April 23~24, 2024. [[Proceedings]](https://ceur-ws.org/Vol-3745/)  [[DBLP]](https://dblp.org/db/conf/eeke/eeke2024.html)
