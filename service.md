@@ -74,7 +74,7 @@ order:  5
   * [International Journal of Knowledge Content Development and Technology](https://journals.sfu.ca/ijkcdt/index.php/ijkcdt/index)
   * [Data Science and Informetrics](http://dsi.nseac.com/)
   * [Data Analysis and Knowledge Discovery (In Chinese)](https://manu44.magtech.com.cn/Jwk_infotech_wk3/EN/home)
-  * [Scientific Information Research (In Chinese)](Scientific Information Research)
+  * [Scientific Information Research (In Chinese)](https://eng.kjqbyj.com/)
   * [Journal of Library and Data (In Chinese)](http://www.wxysjxb.com/s)
   * [Journal of Library and Information Science in Agriculture (In Chinese)](http://nytsqb.aiijournal.com/EN/1002-1248/home.shtml)
   * [Technology Intelligence Engineering (In Chinese)](http://tie.istic.ac.cn/qbgc/ch/index.aspx)
