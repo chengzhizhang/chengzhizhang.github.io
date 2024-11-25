@@ -69,16 +69,15 @@ order:  5
   * [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/journal/ajim)
   * [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el)
   * [Information Discovery and Delivery](https://www.emeraldgrouppublishing.com/journal/idd)
- 
-  * Frontiers in Research Metrics and Analytics
-  * Data Intelligence
-  * International Journal of Knowledge Content Development and Technology
-  * Data Science and Informetrics
-  * Data Analysis and Knowledge Discovery (In Chinese)
-  * Scientific Information Research (In Chinese)
-  * Journal of Library and Data (In Chinese)
-  * Journal of Library and Information Science in Agriculture (In Chinese)
-  * Technology Intelligence Engineering (In Chinese)
+  * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics)
+  * [Data Intelligence](https://direct.mit.edu/dint)
+  * [International Journal of Knowledge Content Development and Technology](https://journals.sfu.ca/ijkcdt/index.php/ijkcdt/index)
+  * [Data Science and Informetrics](http://dsi.nseac.com/)
+  * [Data Analysis and Knowledge Discovery (In Chinese)](https://manu44.magtech.com.cn/Jwk_infotech_wk3/EN/home)
+  * [Scientific Information Research (In Chinese)](Scientific Information Research)
+  * [Journal of Library and Data (In Chinese)](http://www.wxysjxb.com/s)
+  * [Journal of Library and Information Science in Agriculture (In Chinese)](http://nytsqb.aiijournal.com/EN/1002-1248/home.shtml)
+  * [Technology Intelligence Engineering (In Chinese)](http://tie.istic.ac.cn/qbgc/ch/index.aspx)
 
 ## Journal Reviewer 
 * ***IS field***: Journal of the Association for Information Science and Technology(JASIST)(***Top peer reviewers in 2021***), Information Processing and Management(IPM)(***2023 Reviewer Award***), Quantitative Science Studies, Aslib Journal of Information Management, Journal of Informetrics, Scientometrics, Internet Research, Online Information Review, Journal of Information Science, Journal of Librarianship and Information Science, Data Technologies and Applications, Library Hi Tech, The Electronic Library (***Outstanding reviewer in the 2018, 2021*** respectively), Research Evaluation, Learned Publishing, Journal of Librarianship & Information Science, Information Research an international electronic journal, International Journal on Digital Libraries, Information Discovery and Delivery, Frontiers in Research Metrics and Analytics, Data, Journal of Data and Information Science
