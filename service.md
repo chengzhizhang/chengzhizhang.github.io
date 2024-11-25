@@ -45,9 +45,9 @@ order:  5
 
 ## Editors 
 * ***Associate Editor***
-  * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science)
-  * [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management)
-  * [Frontiers in Research Metrics and Analytics (Text-mining and Literature-based Discover)](https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/text-mining-and-literature-based-discovery)
+  * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science) (September 2022~September 2024)
+  * [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management) (2024~)
+  * [Frontiers in Research Metrics and Analytics (Text-mining and Literature-based Discover)](https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/text-mining-and-literature-based-discovery) (2023~)
 
 ## Guest Editors 
   * Technological Forecasting and Social Change: [[AI + Informetrics for Tech Mining]](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change/about/call-for-papers#ai-informetrics-for-tech-mining)
