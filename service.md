@@ -60,15 +60,16 @@ order:  5
   * Information: [[SI: Information Extraction and Language Discourse Processing](https://www.mdpi.com/journal/information/special_issues/WYS02U2GTD)]
   * Journal of Data and Information Science: [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://www.sciendo.com/issue/JDIS/6/3)]
   * Data and Information Management: [[SI: LLMs for Scientific Literature Analysis and Mining](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining)], [[SI: Knowledge Entity Extraction and Text Mining in the Era of Big Data](https://www.sciencedirect.com/journal/data-and-information-management/vol/5/issue/3)]
+  *  [Journal of Natural Language Engineering (Guest Editorial Board)](https://www.cambridge.org/core/journals/natural-language-engineering/issue/6082EFB7FB6F6021E2A4459B714C45C7)
 
 ## Editorial Board Member
-  * Patterns
-  * Scientometrics
-  * Online Information Review
-  * Aslib Journal of Information Management
-  * The Electronic Library
-  * Information Discovery and Delivery
-  * Journal of Natural Language Engineering (Guest Editorial Board)
+  * [Patterns](https://www.cell.com/patterns/home)
+  * [Scientometrics](https://link.springer.com/journal/11192)
+  * [Online Information Review](https://www.emeraldgrouppublishing.com/journal/oir)
+  * [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/journal/ajim)
+  * [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el)
+  * [Information Discovery and Delivery](https://www.emeraldgrouppublishing.com/journal/idd)
+ 
   * Frontiers in Research Metrics and Analytics
   * Data Intelligence
   * International Journal of Knowledge Content Development and Technology
