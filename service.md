@@ -34,7 +34,7 @@ order:  5
 ## Senior Program Committee Member  
 * [***WWW***](https://www2025.thewebconf.org/)(2025)
 * [***JCDL***](http://www.jcdl.org/)(2020, 2021)
-* ***SMP***(2023)
+* [***SMP***](http://www.cips-smp.org/)(2023)
   
 ## Program Committee Member 
 
