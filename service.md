@@ -32,6 +32,7 @@ order:  5
 * JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
 
 ## Senior Program Committee Member  
+* [***WWW***](https://www2025.thewebconf.org/)(2025)
 * [***JCDL***](http://www.jcdl.org/)(2020, 2021)
 * ***SMP***(2023)
   
