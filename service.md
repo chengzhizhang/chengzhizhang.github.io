@@ -49,7 +49,7 @@ order:  5
 ## Editors 
 * ***Associate Editor***
   * [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management) (2024~)
-  * [Frontiers in Research Metrics and Analytics (Text-mining and Literature-based Discover)](https://www.frontiersin.org/journals/research-metrics-and-analytics/sections/text-mining-and-literature-based-discovery) (2023~)
+  * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics/editors) (2023~)
   * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science) (September 2022~September 2024)
 
 ## Guest Editors 
