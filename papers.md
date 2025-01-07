@@ -7,6 +7,7 @@ order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
 ## 2025 
+* [J79] Yi Zhao, Chengzhi Zhang\*. A Review on the Novelty Measurements of Academic Papers. ***Scientometrics***, 2025 (in press). [[doi]]()
 * [J78] Shutian Ma, Chengzhi Zhang\*. Heng Zhang, Zheng Gao. Citation Recommendation based on Argumentative Zoning of User Queries. ***Journal of Informetrics***. 2025, 19(1): 101607. [[doi]](https://doi.org/10.1016/j.joi.2024.101607)
 * [J77] Tong Bao, Heng Zhang, Chengzhi Zhang\*. Enhancing Abstractive Summarization of Scientific Papers Using Structure Information. ***Expert Systems With Applications***, 2025, 261: 125529. [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)   [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
 * [76] Yuzhuo Wang, Chengzhi Zhang\*, Min Song, Seong Deok Kim, Youngsoo Ko, Juhee Lee. Exploring Academic Influence of Algorithms by Co-occurrence Network Based on Full-text of Academic Papers. ***Aslib Journal of Information Management***, 2025  (in press) [[doi]](https://doi.org/10.1108/AJIM-09-2023-0352)  
