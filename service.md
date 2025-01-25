@@ -53,7 +53,7 @@ order:  5
   * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science) (September 2022~September 2024)
 
 ## Guest Editors 
-  * Technological Forecasting and Social Change: [[AI + Informetrics for Tech Mining]](https://www.sciencedirect.com/journal/technological-forecasting-and-social-change/about/call-for-papers#ai-informetrics-for-tech-mining)
+  * Technological Forecasting and Social Change: [[AI + Informetrics for Tech Mining]](https://www.sciencedirect.com/special-issue/315066/ai-plus-informetrics-for-tech-mining)
   * [Information Processing and Management: [[SI: Artificial Intelligence + Informetrics](https://www.sciencedirect.com/special-issue/101SF59BTFR)]
   * Journal of Informetrics: [[SI: AI + Informetrics](https://www.sciencedirect.com/special-issue/10VSKW931LL)]
   * Scientometrics: [[SI: Artificial Intelligence for Scientometrics](https://link.springer.com/journal/11192/updates/27667480)], [[SI: AI + Informetrics](https://link.springer.com/collections/ebfiegeiie)], [[SI: Extraction and Evaluation of Knowledge Entities from Scientific Documents](https://link.springer.com/collections/hbffbdggdj)]
