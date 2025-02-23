@@ -70,7 +70,7 @@ order:  5
   * [Scientometrics](https://link.springer.com/journal/11192)
   * [Online Information Review](https://www.emeraldgrouppublishing.com/journal/oir)
   * [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/journal/ajim)
-  * [Knowledge Organization](https://www.nomos.de/en/journals/ko/)
+  * [Knowledge Organization](https://www.imrpress.com/journal/KO)
   * [The Electronic Library](https://www.emeraldgrouppublishing.com/journal/el)
   * [Information Discovery and Delivery](https://www.emeraldgrouppublishing.com/journal/idd)
   * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics)
