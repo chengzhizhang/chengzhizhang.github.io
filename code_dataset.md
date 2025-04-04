@@ -20,7 +20,7 @@ order:  4
 # Identification of Structural Functions in Academic Articles
 * Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang, Sanhong Deng. Enhancing Identification of Structure Function of Academic Articles Using Contextual Information. ***Scientometrics***, 2022, 127(2): 885–925. [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)  [[Dataset & Source Code]](https://github.com/XN-BoWenMa/Chapter-category-identification)
 
-# Summarization and Survey Generation
+# Summarization/Survey Generation
 * Tong Bao, Heng Zhang, Chengzhi Zhang\*. Enhancing Abstractive Summarization of Scientific Papers Using Structure Information. ***Expert Systems With Applications***, 2025, 261: 125529. [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)   [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
 
 # Novelty Measurement/Peer Review Comment Mining
