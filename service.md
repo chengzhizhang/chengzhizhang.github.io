@@ -3,7 +3,7 @@ layout: page
 title:  Service
 cover:  false
 menu:   true
-order:  5
+order:  6
 ---
 
 # Conference Services
