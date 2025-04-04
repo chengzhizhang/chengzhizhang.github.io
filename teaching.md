@@ -3,7 +3,7 @@ layout: page
 title:  Teaching
 cover:  false
 menu:   true
-order:  4
+order:  5
 ---
 
 ## Tutorial 
