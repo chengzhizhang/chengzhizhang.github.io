@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Codes/Dataset
+title:  Codes/Dataset/Demo
 cover:  false
 menu:   true
 order:  4
@@ -16,6 +16,8 @@ order:  4
 * Yingyi Zhang, Chengzhi Zhang\*. Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization. ***Scientometrics***, 2024, 129(6): 3433-3468. [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper)
 * Heng Zhang, Chengzhi Zhang\*, Yuzhuo Wang. Revealing the Technology Development of Natural Language Processing: A Scientific Entity-Centric Perspective. ***Information Processing and Management***, 2024, 61(1): 103574. [[doi]](https://doi.org/10.1016/j.ipm.2023.103574)  [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development)
 * Chengzhi Zhang, Yi Xiang, Wenke Hao, Zhicheng Li, Yuchen Qian, Yuzhuo Wang. Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain. ***Journal of Informetrics***, 2023, 17(1): 101373. [[doi](https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* Yuzhuo Wang, Chengzhi Zhang\*. Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing . ***Journal of Informetrics***, 2020, 14(4): 101091. [[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817)  [[Demo: Algorithm Influence in NLP (1979~2015)](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)]   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
+* Heng Zhang, Chengzhi Zhang\*. Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China. ***Knowledge Organization***, 2021，48(2): 126-139. [[doi]](https://doi.org/10.5771/0943-7444-2021-2-126)  [[arxiv]](https://arxiv.org/abs/2101.07924) [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
 
 # Identification of Structural Functions in Academic Articles
 * Bowen Ma, Chengzhi Zhang\*, Yuzhuo Wang, Sanhong Deng. Enhancing Identification of Structure Function of Academic Articles Using Contextual Information. ***Scientometrics***, 2022, 127(2): 885–925. [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)  [[Dataset & Source Code]](https://github.com/XN-BoWenMa/Chapter-category-identification)
@@ -31,6 +33,9 @@ order:  4
 # Other
 * Yi Xiang, Chengzhi Zhang\*, Heng Zhang. Automatic Generation of Highlights for Academic Paper via Prompt-based Learning. ***Library Hi Tech***, 2025.（in press) [[doi](https://doi.org/10.1108/LHT-02-2024-0112)] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
 * Liang Tian, Chengzhi Zhang\*. Using Hashtags to Analysis Purpose and Technology Application of Open-Source Project Related to COVID-19. ***Knowledge Organization***, 2022, 49(3): 192–207. [[doi]](https://doi.org/10.5771/0943-7444-2022-3-192)  [[arXiv]](http://arxiv.org/abs/2207.06219)  [[Dataset & Source Code]](https://github.com/Molimicha-tech/ko-covid19)
+* Chengzhi Zhang, Zijing Yue, Qingqing Zhou, Shutian Ma, Zike Zhang. Using social media to explore regional cuisine preferences in China. ***Online Information Review***. 2019, 43(7): 1098-1114. [[doi]](https://doi.org/10.1108/OIR-08-2018-0244)  [[Demo]](https://chengzhizhang.github.io/research/cuisine_preferences/results.html)
 * Chengzhi Zhang, Xuchen Yao and Chunyu Kit. Finding More Bilingual Web Pages with High Credibility via Link Analysis. In: ***Proceedings of the 6th Workshop on Building and Using Comparable Corpora (BUCC2013)***. 8 August 2013, Sofia, Bulgaria. [[Dataset & Source Code]](http://mega.lt.cityu.edu.hk/~czhang22/pupsniffer-eval/)
+* Chengzhi Zhang, Liang Tian,  Heting Chu. Usage Frequency and Application Variety of Research Methods in Library and Information Science: Continuous investigation from 1991 to 2021. ***Information Processing and Management***, 2023, 60(6): 103507. [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
+* Chengzhi Zhang, Zijing Yue, Qingqing Zhou, Shutian Ma, Zike Zhang. Using social media to explore regional cuisine preferences in China. ***Online Information Review***. 2019, 43(7): 1098-1114. [[doi]](https://doi.org/10.1108/OIR-08-2018-0244)  [[Demo]](https://chengzhizhang.github.io/research/cuisine_preferences/results.html)
 
 
