@@ -10,7 +10,7 @@ order:  4
 * Enhancing Keyphrase Extraction from Academic Articles with their Reference Information [[doi]](https://doi.org/10.1007/s11192-021-04230-4)  [[arXiv]](http://arxiv.org/abs/2111.14106)  [[Dataset & Source Code]](https://github.com/chengzhizhang/Keyphrase_Extraction)
 * Utilizing Cognitive Signals Generated during Human Reading to Enhance Keyphrase Extraction from Microblogs [[doi]](https://doi.org/10.1016/j.ipm.2023.103614)  [[Dataset & Source Code]](https://github.com/yan-xinyi/AKE)
 * Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts [[doi]](https://doi.org/10.18653/v1/N18-1151) [[Dataset]](https://ai.tencent.com/upload//PapersUploads/naacl2018-keyphrase-datasets.zip)
-* Building a Multimodal Dataset of Academic Paper for Keyword Extraction [[doi]](https://doi.org/10.1002/pra2.1040)
+* Building a Multimodal Dataset of Academic Paper for Keyword Extraction [[doi]](https://doi.org/10.1002/pra2.1040) [[Dataset & Source Code]](https://github.com/zzjy01/AKE/)
 
 # Knowlege Entity/Sentence Extraction  
 * Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper)
