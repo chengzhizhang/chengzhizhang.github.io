@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Codes/Dataset/Demo
+title:  Codes/Datasets/Demos
 cover:  false
 menu:   true
 order:  4
