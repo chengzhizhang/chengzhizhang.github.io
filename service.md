@@ -51,6 +51,7 @@ order:  6
   * [Data and Information Management](https://www.sciencedirect.com/journal/data-and-information-management) (2024~)
   * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics/editors) (2023~)
   * [Heliyon (Information Science)](https://www.cell.com/heliyon/information-science) (September 2022~September 2024)
+  * [Data Analysis and Knowledge Discovery (In Chinese)](https://manu44.magtech.com.cn/Jwk_infotech_wk3/EN/home) (2025~)
 
 ## Guest Editors 
   * Technological Forecasting and Social Change: [[AI + Informetrics for Tech Mining]](https://www.sciencedirect.com/special-issue/315066/ai-plus-informetrics-for-tech-mining)
