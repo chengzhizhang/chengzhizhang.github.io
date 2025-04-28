@@ -24,6 +24,9 @@ order:  4
 
 # Summarization/Survey Generation
 * Enhancing Abstractive Summarization of Scientific Papers Using Structure Information [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)   [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
+ 
+# Research Idea Generation
+* Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. [[doi]]()  [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists)
 
 # Novelty Measurement/Peer Review Comment Mining
 * SC4ANM: Identifying Optimal Section Combinations for Automated Novelty Prediction in Academic Papers [[doi]](https://doi.org/10.1016/j.eswa.2025.126778)  [[Dataset & Source Code]](https://github.com/njust-winchy/SC4ANM)
@@ -31,11 +34,11 @@ order:  4
 * Exploring the Relationship Between Team Institutional Composition and Novelty in Academic Papers Based on Fine-Grained Knowledge Entities [[doi]](https://doi.org/10.1108/EL-03-2024-0070)  [[Dataset & Source Code]](https://github.com/CZL-ziling/Noveltyscore_metric) 
 
 # Other
+* Usage Frequency and Application Variety of Research Methods in Library and Information Science: Continuous investigation from 1991 to 2021 [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
 * Automatic Generation of Highlights for Academic Paper via Prompt-based Learning [[doi](https://doi.org/10.1108/LHT-02-2024-0112)] [[Dataset & Source Code]](https://github.com/xiangyi-njust/Highlight-Generation)
 * Using Hashtags to Analysis Purpose and Technology Application of Open-Source Project Related to COVID-19 [[doi]](https://doi.org/10.5771/0943-7444-2022-3-192)  [[arXiv]](http://arxiv.org/abs/2207.06219)  [[Dataset & Source Code]](https://github.com/Molimicha-tech/ko-covid19)
 * Using social media to explore regional cuisine preferences in China  [[doi]](https://doi.org/10.1108/OIR-08-2018-0244)  [[Demo]](https://chengzhizhang.github.io/research/cuisine_preferences/results.html)
 * Finding More Bilingual Web Pages with High Credibility via Link Analysis [[URL]](https://aclanthology.org/W13-2517/)  [[Dataset & Source Code]](http://mega.lt.cityu.edu.hk/~czhang22/pupsniffer-eval/)
-* Usage Frequency and Application Variety of Research Methods in Library and Information Science: Continuous investigation from 1991 to 2021 [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
-* Using social media to explore regional cuisine preferences in China  [[doi]](https://doi.org/10.1108/OIR-08-2018-0244)  [[Demo]](https://chengzhizhang.github.io/research/cuisine_preferences/results.html)
+
 
 
