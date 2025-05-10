@@ -36,11 +36,13 @@ phd-students-first:
     url:    
     tagline: Peer Reveiw Mining, Novelty Measuring of Scientific Article.  
 project-students:
+
 former-phd:
+
   -
     name: Yi Zhao
     url: https://www.researchgate.net/profile/Yi_Zhao162   
-    tagline: ”PD 2025, now: Assistant Professor at Anhui University."
+    tagline: ”PhD 2025, now: Assistant Professor at Anhui University."
     description: >
       PhD Thesis: Relationship between the diversity of scientific team composition and the team’s scientific creativity.
   - 
