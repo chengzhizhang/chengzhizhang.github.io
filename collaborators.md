@@ -18,12 +18,6 @@ order:  7
 {% include collaborator.html people=page.project-students show=false %}
 -->
 ### Master students
-* Jiaqi Zeng, 2022
-* Ziling Chen, 2022
-* Jingyu Zhang, 2022
-* Yi Mao, 2022
-* Yanqi Ren, 2022
-* Yang Yang, 2022
 * Linlei Xie, 2023
 * Decheng Duan, 2023
 * Mingxiang Chen, 2023
@@ -40,6 +34,12 @@ order:  7
 <!--{
 % include collaborator.html people=site.data.collaborators.former-masters %}
 -->
+* Jiaqi Zeng, MSc 2025, master thesis: Gender Differences in Author Contribution Roles to Academic Articles Based on Contribution Statements
+* Ziling Chen, MSc 2025, master thesis: Novelty Measurement of Academic Articles Based on Functional Chapter Structure and Fine-Grained Knowledge Entities
+* Jingyu Zhang, MSc 2025, master thesis: Multimodal Keyword Extraction from Academic Articles
+* Yi Mao, MSc 2025, master thesis: Relationship Between Academic Age and the Research Methods Among Scholars in Specific Fields
+* Yanqi Ren, MSc 2025, master thesis: Novelty Measurement of Academic Papers in the Discipline of Information Resource Management
+* Yang Yang, MSc 2025, master thesis: Discovery of Emerging Research Topics in Specific Fields Based on Future Work Sentences
 * Xinlong Chu, MSc 2024, master thesis: Mining Research Methods for Academic Articles in the Field of Humanities and Social Sciences
 * Siqi Wei, MSc 2024, master thesis: Gender differences in research topic and method selection by Scholars in Specific Fields
 * Shuyu Peng, MSc 2024, master thesis: Paradigm Shifts in Specific Domain Based on Research Topics and Methods of Academic Paper
