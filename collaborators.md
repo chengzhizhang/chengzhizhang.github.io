@@ -24,7 +24,6 @@ order:  7
 * Hongye Zhao, Knowledge Entity Extraction and Evaluation.  
 * Chenggang Yang, Peer Reveiw Mining, Novelty Measuring of Scientific Article.  
 
-<h4>Master's and undergraduate project students</h4>
 ### Master students
 * Linlei Xie, 2023
 * Decheng Duan, 2023
@@ -99,8 +98,8 @@ order:  7
 * Sha Liu，MSc 2012, master thesis: Building and Evaluating Special Domain Comparable Corpus. 
 
 ### Undergraduates
-{% include collaborator.html people=site.data.collaborators.former-ug %}
-
+<!--{% include collaborator.html people=site.data.collaborators.former-ug %}
+-->
 ---
 
 If your information is out of date, please get in touch!
