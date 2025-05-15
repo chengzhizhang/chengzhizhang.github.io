@@ -11,7 +11,7 @@ order:  7
 
 ## Students
 ### PhD students
-<!
+<!--
 --{% include collaborator.html people=site.data.collaborators.phd-students-first %}
 -->
 * Bowen Li, Methodology in information science.
@@ -23,7 +23,7 @@ order:  7
 * [Yi Xiang](https://xiangyi-njust.github.io/), Novelty Measuring of Scientific Article.   
 * Hongye Zhao, Knowledge Entity Extraction and Evaluation.  
 * Chenggang Yang, Peer Reveiw Mining, Novelty Measuring of Scientific Article.  
-<!--
+
 <h4>Master's and undergraduate project students</h4>
 {% include collaborator.html people=page.project-students show=false %}
 -->
