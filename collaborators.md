@@ -25,6 +25,7 @@ order:  7
 * Chenggang Yang, Peer Reveiw Mining, Novelty Measuring of Scientific Article.  
 
 <h4>Master's and undergraduate project students</h4>
+<!--
 {% include collaborator.html people=page.project-students show=false %}
 -->
 ### Master students
