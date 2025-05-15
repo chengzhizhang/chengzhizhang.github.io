@@ -12,7 +12,7 @@ order:  7
 ## Students
 ### PhD students
 <!--
---{% include collaborator.html people=site.data.collaborators.phd-students-first %}
+{% include collaborator.html people=site.data.collaborators.phd-students-first %}
 -->
 * Bowen Li, Methodology in information science.
 * [Haixu Xi](https://www.researchgate.net/profile/Haixu_Xi2), Knowledge Entity Extraction and Evaluation.
