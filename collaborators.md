@@ -11,9 +11,6 @@ order:  7
 
 ## Students
 ### PhD students
-<!--
-{% include collaborator.html people=site.data.collaborators.phd-students-first %}
--->
 * Bowen Li, Methodology in information science.
 * [Haixu Xi](https://www.researchgate.net/profile/Haixu_Xi2), Knowledge Entity Extraction and Evaluation.
 * [Chen Yang](https://yangchen199671.github.io/), Novelty Measuring of Scientific Article.
@@ -35,9 +32,6 @@ order:  7
 
 ## Alumni
 ### PhD
-<!--
-{% include collaborator.html people=site.data.collaborators.former-phd %}
--->
 * [Yi Zhao](https://www.researchgate.net/profile/Yi_Zhao162), PhD 2025, now: Assistant Professor at Anhui University.<br>
   PhD Thesis: Relationship between the diversity of scientific team composition and the team’s scientific creativity.
 * [Heng Zhang](https://www.researchgate.net/profile/Heng_Zhang118), PhD 2024, now: Assistant Professor at Central China Normal University.<br>
@@ -60,9 +54,6 @@ order:  7
   PhD Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
 
 ### Master
-<!--{
-% include collaborator.html people=site.data.collaborators.former-masters %}
--->
 * Jiaqi Zeng, MSc 2025, master thesis: Gender Differences in Author Contribution Roles to Academic Articles Based on Contribution Statements
 * Ziling Chen, MSc 2025, master thesis: Novelty Measurement of Academic Articles Based on Functional Chapter Structure and Fine-Grained Knowledge Entities
 * Jingyu Zhang, MSc 2025, master thesis: Multimodal Keyword Extraction from Academic Articles
@@ -98,8 +89,7 @@ order:  7
 * Sha Liu，MSc 2012, master thesis: Building and Evaluating Special Domain Comparable Corpus. 
 
 ### Undergraduates
-<!--{% include collaborator.html people=site.data.collaborators.former-ug %}
--->
+
 ---
 
 If your information is out of date, please get in touch!
