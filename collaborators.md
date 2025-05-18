@@ -33,7 +33,7 @@ order:  7
 ## Alumni
 ### PhD
 * [Yi Zhao](https://www.researchgate.net/profile/Yi_Zhao162), PhD 2025, now: Assistant Professor at Anhui University.<br>
-  PhD Thesis: Relationship between the diversity of scientific team composition and the team’s scientific creativity.
+  PhD Thesis: Relationship between the Diversity of Scientific Team Composition and the Team’s Scientific Creativity.
 * [Heng Zhang](https://www.researchgate.net/profile/Heng_Zhang118), PhD 2024, now: Assistant Professor at Central China Normal University.<br>
   PhD Thesis: Research Process Mining in a Specific Field Based on the Full Text of Academic Articles.
 * [Yuzhuo Wang](https://www.researchgate.net/profile/Yuzhuo_Wang7), PhD 2023, now: Assistant Professor at Anhui University.<br>
@@ -49,31 +49,31 @@ order:  7
 * [Qingqing Zhou](https://www.researchgate.net/profile/Qingqing_Zhou8), PhD 2018, now: Associate Professor at Nanjing Normal University.<br>
   PhD Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
 * [Xiaolan Wu](https://www.researchgate.net/profile/Wu_Lan3), PhD 2018, now: Professor at Nanjing Normal University."
-  PhD Thesis: Finding Interdisciplinary Users on Social Media and its Application.
+  PhD Thesis: Finding Interdisciplinary Users on Social Media and Its Application.
 * [Lei Li](https://www.researchgate.net/profile/Lei_Li68), PhD 2018, now: Associate Professor at Beijing Normal University.<br>
   PhD Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
 
 ### Master
-* Jiaqi Zeng, MSc 2025, master thesis: Gender Differences in Author Contribution Roles to Academic Articles Based on Contribution Statements
-* Ziling Chen, MSc 2025, master thesis: Novelty Measurement of Academic Articles Based on Functional Chapter Structure and Fine-Grained Knowledge Entities
-* Jingyu Zhang, MSc 2025, master thesis: Multimodal Keyword Extraction from Academic Articles
-* Yi Mao, MSc 2025, master thesis: Relationship Between Academic Age and the Research Methods Among Scholars in Specific Fields
-* Yanqi Ren, MSc 2025, master thesis: Novelty Measurement of Academic Papers in the Discipline of Information Resource Management
-* Yang Yang, MSc 2025, master thesis: Discovery of Emerging Research Topics in Specific Fields Based on Future Work Sentences
-* Xinlong Chu, MSc 2024, master thesis: Mining Research Methods for Academic Articles in the Field of Humanities and Social Sciences
-* Siqi Wei, MSc 2024, master thesis: Gender differences in research topic and method selection by Scholars in Specific Fields
-* Shuyu Peng, MSc 2024, master thesis: Paradigm Shifts in Specific Domain Based on Research Topics and Methods of Academic Paper
-* Zile Hu, MSc 2024, master thesis: Scientific Research Cooperation Models and Influencing Factors between Countries in a Specific Field
-* Wenqi Yu, MSc 2024, master thesis: Academic Paper Keyword Extraction by Integrating User Reading Behavior and Text Content Features and its Recommended Application
-* Yukai Yang, MSc 2024, master thesis: Relationship Between Academic and Industrial Collaboration and Academic Impact in Specific Fields
-* Haochuan Li, MSc 2024, master thesis: Relationship between Research Difficulty and Academic Influence of Academic Articles in a Specific Domain
-* Liang Tian, MSc 2023, master thesis: Cross-lingual Classification and Usage Patterns Analysis of Research Methods of Academic Articles
-* Lei Zhao, MSc 2023, master thesis: Using Text Structure and Automatic Summarization to Extract Keywords from Academic Papers  
-* Yuxin Xie, MSc 2022, master thesis: Extraction of Fine-grained Method Entities in the Full-text Content of Academic Articles and Their Association and Evolution Analysis
-* Minghui Meng, MSc 2022, master thesis: Sentiment Analysis of Online Peer Reviews and Application
-* Ruping Wang, MSc 2021, master thesis: Methodological Sentences Recognition and Automatic Summarization Based upon Full-text of Academic Articles
-* Lifan Liu, MSc 2021, master thesis: Interdisciplinary Knowledge Flow based on Citation Content
-* Shaohu Hu, MSc 2021, master thesis: Text Keyword Extraction Based on Eye-tracking Data
+* Jiaqi Zeng, MSc 2025, master thesis: Gender Differences in Author Contribution Roles to Academic Articles Based on Contribution Statements.
+* Ziling Chen, MSc 2025, master thesis: Novelty Measurement of Academic Articles Based on Functional Chapter Structure and Fine-Grained Knowledge Entities.
+* Jingyu Zhang, MSc 2025, master thesis: Multimodal Keyword Extraction from Academic Articles.
+* Yi Mao, MSc 2025, master thesis: Relationship Between Academic Age and the Research Methods Among Scholars in Specific Fields.
+* Yanqi Ren, MSc 2025, master thesis: Novelty Measurement of Academic Papers in the Discipline of Information Resource Management.
+* Yang Yang, MSc 2025, master thesis: Discovery of Emerging Research Topics in Specific Fields Based on Future Work Sentences.
+* Xinlong Chu, MSc 2024, master thesis: Mining Research Methods for Academic Articles in the Field of Humanities and Social Sciences.
+* Siqi Wei, MSc 2024, master thesis: Gender differences in research topic and method selection by Scholars in Specific Fields.
+* Shuyu Peng, MSc 2024, master thesis: Paradigm Shifts in Specific Domain Based on Research Topics and Methods of Academic Paper.
+* Zile Hu, MSc 2024, master thesis: Scientific Research Cooperation Models and Influencing Factors between Countries in a Specific Field.
+* Wenqi Yu, MSc 2024, master thesis: Academic Paper Keyword Extraction by Integrating User Reading Behavior and Text Content Features and Its Recommended Application.
+* Yukai Yang, MSc 2024, master thesis: Relationship Between Academic and Industrial Collaboration and Academic Impact in Specific Fields.
+* Haochuan Li, MSc 2024, master thesis: Relationship between Research Difficulty and Academic Influence of Academic Articles in a Specific Domain.
+* Liang Tian, MSc 2023, master thesis: Cross-lingual Classification and Usage Patterns Analysis of Research Methods of Academic Articles.
+* Lei Zhao, MSc 2023, master thesis: Using Text Structure and Automatic Summarization to Extract Keywords from Academic Papers.
+* Yuxin Xie, MSc 2022, master thesis: Extraction of Fine-grained Method Entities in the Full-text Content of Academic Articles and Their Association and Evolution Analysis.
+* Minghui Meng, MSc 2022, master thesis: Sentiment Analysis of Online Peer Reviews and Application.
+* Ruping Wang, MSc 2021, master thesis: Methodological Sentences Recognition and Automatic Summarization Based upon Full-text of Academic Articles.
+* Lifan Liu, MSc 2021, master thesis: Interdisciplinary Knowledge Flow based on Citation Content.
+* Shaohu Hu, MSc 2021, master thesis: Keyword Extraction from Text Using Eye-Tracking Data.
 * Jin Xu, MSc 2020, master thesis: Automatic Identification of Cited Spans and Classification of Citation Type in Academic Articles.
 * Ruiyi Ding, MSc 2020, master thesis：Mention Behavior and Influence Analysis of Algorithm Based on Full-text Content of Academic Articles.
 * Tiantian Tong，MSc 2019, master thesis: Automatic Summarization of Book Review Based on Multi-Source. 
