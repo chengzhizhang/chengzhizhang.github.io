@@ -7,6 +7,7 @@ order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
 ## 2025
+* [P7] Zhongyi Wang, Haihua Chen, Chengzhi Zhang,Yi Bu, Wei Lu, Jian Wu. ***Proceedings of 2nd Workshop on Innovation Measurement for Scientific Communication in the Era of Big Data ((IMSC2024)***, co-located with the ACM/IEEE Joint Conference on Digital Libraries 2024 (JCDL2024), Hong Kong and online, Dec 20th, 2024. [[Proceedings]]()
 * [J85] Chengzhi Zhang, Linlei Xie, Siqi Wei. Gender differences in research topic and method convergence among collaborating scholars in library and information science. ***Library & Information Science Research***, 2025, 47(2): 101353. [[doi]](https://doi.org/10.1016/j.lisr.2025.101353)
 * [J84] Chengzhi Zhang, Jiaqi Zeng, Yi Zhao. Is higher team gender diversity correlated with better scientific impact? ***Journal of Informetrics***, 2025, 19(2): 101662. [[doi]](https://doi.org/10.1016/j.joi.2025.101662)
 * [J83] Chengzhi Zhang, Xinyi Yan, Lei Zhao, Yingyi Zhang. Enhancing Keyphrase Extraction from Academic Articles Using Section Structure Information. ***Scientometrics***, 2025, 130(4): 2311–2343. [[doi]](https://doi.org/10.1007/s11192-025-05286-2)  [[arXiv]](https://arxiv.org/abs/2505.14149)  [[Dataset & Source Code]](https://github.com/yan-xinyi/SSB_KPE)
