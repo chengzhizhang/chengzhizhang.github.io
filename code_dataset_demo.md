@@ -32,7 +32,7 @@ order:  4
 * SC4ANM: Identifying Optimal Section Combinations for Automated Novelty Prediction in Academic Papers [[doi]](https://doi.org/10.1016/j.eswa.2025.126778)  [[Dataset & Source Code]](https://github.com/njust-winchy/SC4ANM)
 * Are the confidence scores of reviewers consistent with the review content? Evidence from top conference proceedings in AI [[doi]](https://doi.org/10.1007/s11192-024-05070-8)  [[Dataset & Source Code]](https://github.com/njust-winchy/confidence_score)
 * Exploring the Relationship Between Team Institutional Composition and Novelty in Academic Papers Based on Fine-Grained Knowledge Entities [[doi]](https://doi.org/10.1108/EL-03-2024-0070)  [[Dataset & Source Code]](https://github.com/CZL-ziling/Noveltyscore_metric)
-* Aspect-Based Sentiment Evolution and its Correlation with Review Rounds in Multi-Round Peer Reviews: A Deep Learning Approach [[Dataset & Source Code]](https://github.com/RuxueHan/Aspect-Sentiment-Analysis-of-Peer-Review-in-NC)
+* Aspect-Based Sentiment Evolution and its Correlation with Review Rounds in Multi-Round Peer Reviews: A Deep Learning Approach [[doi]](https://doi.org/10.1016/j.dim.2025.100105)  [[Dataset & Source Code]](https://github.com/RuxueHan/Aspect-Sentiment-Analysis-of-Peer-Review-in-NC)
 
 # Other
 * Usage Frequency and Application Variety of Research Methods in Library and Information Science: Continuous investigation from 1991 to 2021 [[doi]](https://doi.org/10.1016/j.ipm.2023.103507) [[Demo]](https://chengzhizhang.github.io/research/research_methods/research_topic_method.html)
