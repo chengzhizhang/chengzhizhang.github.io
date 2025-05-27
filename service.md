@@ -76,7 +76,7 @@ order:  6
   * [Information Discovery and Delivery](https://www.emeraldgrouppublishing.com/journal/idd)
   * [Frontiers in Research Metrics and Analytics](https://www.frontiersin.org/journals/research-metrics-and-analytics)
   * [Data Intelligence](https://direct.mit.edu/dint)
-  * [International Journal of Knowledge Content Development and Technology](https://journals.sfu.ca/ijkcdt/index.php/ijkcdt/index)
+  * [International Journal of Knowledge Content Development and Technology](https://journals.sfu.ca/ijkcdt/index.php/ijkcdt/index) (2021~2024)
   * [Data Science and Informetrics](http://dsi.nseac.com/)
   * [Data Analysis and Knowledge Discovery (In Chinese)](https://manu44.magtech.com.cn/Jwk_infotech_wk3/EN/home)
   * [Scientific Information Research (In Chinese)](https://eng.kjqbyj.com/)
