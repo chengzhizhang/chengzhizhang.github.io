@@ -17,6 +17,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 ## Recent News
 * ***Call for Paper***: Special isssue about “AI + Informetrics for Tech Mining” at [***Technological Forecasting and Social Change***](https://www.sciencedirect.com/special-issue/315066/ai-plus-informetrics-for-tech-mining)
 * ***Call for Paper***: Special isssue about "LLMs for Scientific Literature Analysis and Mining" at [***Data and Information Management***](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining)
+* A paper published in Scientometrics was featured in a report by [Times Higher Education](https://www.timeshighereducation.com/news/ais-hyperbole-making-journal-abstracts-harder-read).
 * Call for Paper: Joint Workshop of the 5th AI + Informetrics (AII) and the 6th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE): [***AII-EEKE 2025***](https://eeke-workshop.github.io/2025/) at ISSI2025, Yerevan, Armenia
 * Call for Paper: Special isssue about "Artificial Intelligence for Scientometrics" at [***Scientometrics***](https://link.springer.com/journal/11192/updates/27667480) 
 * Call for Paper: 2nd Workshop on Innovation Measurement for Scientific Communication (IMSC) in the Era of Big Data ([***IMSC2024***](https://imsc-committee.github.io/JCDL2024-IMSCworkshop/))
