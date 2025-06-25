@@ -68,6 +68,7 @@ order:  6
 
 ## Editorial Board Member
   * [Patterns](https://www.cell.com/patterns/home)
+  * [Information Processing & Management](https://www.sciencedirect.com/journal/information-processing-and-management/about/editorial-board)
   * [Scientometrics](https://link.springer.com/journal/11192)
   * [Online Information Review](https://www.emeraldgrouppublishing.com/journal/oir)
   * [Aslib Journal of Information Management](https://www.emeraldgrouppublishing.com/journal/ajim)
