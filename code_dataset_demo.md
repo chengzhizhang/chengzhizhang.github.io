@@ -29,6 +29,7 @@ order:  4
 * Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. [[doi]]()  [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists)
 
 # Novelty Measurement/Peer Review Comment Mining
+* Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. [[doi]](https://doi.org/10.1002/asi.70005) [[Dataset & Source Code]](https://github.com/njust-winchy/originality_predict/)) 
 * SC4ANM: Identifying Optimal Section Combinations for Automated Novelty Prediction in Academic Papers [[doi]](https://doi.org/10.1016/j.eswa.2025.126778)  [[Dataset & Source Code]](https://github.com/njust-winchy/SC4ANM)
 * Are the confidence scores of reviewers consistent with the review content? Evidence from top conference proceedings in AI [[doi]](https://doi.org/10.1007/s11192-024-05070-8)  [[Dataset & Source Code]](https://github.com/njust-winchy/confidence_score)
 * Exploring the Relationship Between Team Institutional Composition and Novelty in Academic Papers Based on Fine-Grained Knowledge Entities [[doi]](https://doi.org/10.1108/EL-03-2024-0070)  [[Dataset & Source Code]](https://github.com/CZL-ziling/Noveltyscore_metric)
