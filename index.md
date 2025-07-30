@@ -13,6 +13,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
 
  
 ## Recent News
+* ***Call for Paper***: Special isssue about "Large Language Models for Scientometrics (LLM4SCIM)" at [***Scientometrics***](https://link.springer.com/collections/fcgfjgggfb)
 * ***Call for Paper***: Special isssue about "LLMs for Scientific Literature Analysis and Mining" at [***Data and Information Management***](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining)
 * In July 2025, a paper has been accepted by ***Journal of the Association for Information Science and Technology***. 2025.  [[doi]](https://doi.org/10.1002/asi.70005)  [[arXiv]](https://arxiv.org/abs/2507.11330)  [[Dataset & Source Code]](https://github.com/njust-winchy/originality_predict/)
 * Call for Paper: Special isssue about “AI + Informetrics for Tech Mining” at [***Technological Forecasting and Social Change***](https://www.sciencedirect.com/special-issue/315066/ai-plus-informetrics-for-tech-mining)
