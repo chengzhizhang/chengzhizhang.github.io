@@ -26,7 +26,7 @@ order:  4
 * Enhancing Abstractive Summarization of Scientific Papers Using Structure Information [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)  [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
  
 # Research Idea Generation
-* Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. [[doi]](https://doi.org/10.51408/issi2025_007)  [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists)
+* Enhancing Research Idea Generation through Combinatorial Innovation and Multi-Agent Iterative Search Strategies. [[doi]](https://doi.org/10.51408/issi2025_007)  [[Dataset & Source Code]](https://github.com/ChenShuai00/virtual_scientists)  [[Demo]](https://huggingface.co/spaces/cshuai20/MAGenIdeas)
 
 # Novelty Measurement/Peer Review Comment Mining
 * Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. [[doi]](https://doi.org/10.1002/asi.70005) [[Dataset & Source Code]](https://github.com/njust-winchy/originality_predict/)) 
