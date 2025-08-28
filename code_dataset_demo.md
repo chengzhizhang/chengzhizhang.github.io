@@ -23,6 +23,7 @@ order:  4
 * Enhancing Identification of Structure Function of Academic Articles Using Contextual Information [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)  [[Dataset & Source Code]](https://github.com/XN-BoWenMa/Chapter-category-identification)
 
 # Summarization/Survey Generation
+* SurveyGen: Quality-Aware Scientific Survey Generation with Large Language Models.  [[doi]]()  [[arXiv]](https://arxiv.org/abs/2508.17647)  [[Dataset & Source Code]](https://github.com/tongbao96/SurveyGen)
 * Enhancing Abstractive Summarization of Scientific Papers Using Structure Information [[doi]](https://doi.org/10.1016/j.eswa.2024.125529)  [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SFR-AS)
  
 # Research Idea Generation
