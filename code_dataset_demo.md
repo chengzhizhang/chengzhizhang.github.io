@@ -20,7 +20,7 @@ order:  4
 
 # Sentence Extraction
 * Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper)
-* * Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain [[doi](https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+* Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain [[doi](https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
      
 # Identification of Structural Functions in Academic Articles
 * Enhancing Identification of Structure Function of Academic Articles Using Contextual Information [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)  [[Dataset & Source Code]](https://github.com/XN-BoWenMa/Chapter-category-identification)
