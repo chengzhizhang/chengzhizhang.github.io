@@ -12,13 +12,16 @@ order:  4
 * Encoding Conversation Context for Neural Keyphrase Extraction from Microblog Posts [[doi]](https://doi.org/10.18653/v1/N18-1151) [[Dataset]](https://ai.tencent.com/upload//PapersUploads/naacl2018-keyphrase-datasets.zip)
 * Building a Multimodal Dataset of Academic Paper for Keyword Extraction [[doi]](https://doi.org/10.1002/pra2.1040) [[Dataset & Source Code]](https://github.com/zzjy01/AKE/)
 
-# Knowlege Entity/Sentence Extraction  
-* Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper)
+# Knowlege Entity/Knowledge Graph Construction 
 * Revealing the Technology Development of Natural Language Processing: A Scientific Entity-Centric Perspective [[doi]](https://doi.org/10.1016/j.ipm.2023.103574)  [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development)
-* Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain [[doi](https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
 * Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing [[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817)  [[Demo: Algorithm Influence in NLP (1979~2015)](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)]   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
+* SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP [[arXiv]](https://arxiv.org/abs/2509.07801)  [[Dataset & Source Code]](https://github.com/AKADDC/SciNLP)
 * Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China [[doi]](https://doi.org/10.5771/0943-7444-2021-2-126)  [[arxiv]](https://arxiv.org/abs/2101.07924) [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
 
+# Sentence Extraction
+* Extracting Problem and Method Sentence from Scientific Papers: A Context-enhanced Transformer Using Formulaic Expression Desensitization [[doi]](https://doi.org/10.1007/s11192-024-05048-6)  [[Dataset & Source Code]](https://github.com/YingyiZhang/sentence-extraction-from-scientific-paper)
+* * Automatic Recognition and Classification of Future Work Sentences from Academic Articles in a Specific Domain [[doi](https://doi.org/10.1016/j.joi.2022.101373)]  [[arXiv](http://arxiv.org/abs/2212.13860)]  [[Dataset & Source Code]](https://github.com/xiangyi-njust/FWS/)
+     
 # Identification of Structural Functions in Academic Articles
 * Enhancing Identification of Structure Function of Academic Articles Using Contextual Information [[doi]](https://doi.org/10.1007/s11192-021-04225-1)  [[arXiv]](http://arxiv.org/abs/2111.14110)  [[Dataset & Source Code]](https://github.com/XN-BoWenMa/Chapter-category-identification)
 
