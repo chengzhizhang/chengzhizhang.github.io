@@ -14,7 +14,7 @@ order:  4
 
 # Knowlege Entity/Knowledge Graph Construction 
 * Revealing the Technology Development of Natural Language Processing: A Scientific Entity-Centric Perspective [[doi]](https://doi.org/10.1016/j.ipm.2023.103574)  [[Dataset & Source Code]](https://github.com/ZH-heng/technology_development)
-* Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework  [[arXiv]]()  [[doi]]()  [[Dataset & Source Code]]( https://github.com/ZH-heng/research_workflow)
+* Automated Generation of Research Workflows from Academic Papers: A Full-text Mining Framework  [[arXiv]]()  [[doi]](https://doi.org/10.1016/j.joi.2025.101732)  [[Dataset & Source Code]]( https://github.com/ZH-heng/research_workflow)
 * Using the Full-text Content of Academic Articles to Identify and Evaluate Algorithm Entities in the Domain of Natural Language Processing [[doi]](https://doi.org/10.1016/j.joi.2020.101091)  [[arxiv]](https://arxiv.org/abs/2010.10817)  [[Demo: Algorithm Influence in NLP (1979~2015)](https://chengzhizhang.github.io/research/algorithm_entity/algorithm_influence.html)]   [[Video](https://chengzhizhang.github.io/research/algorithm_entity/video.html)]
 * SciNLP: A Domain-Specific Benchmark for Full-Text Scientific Entity and Relation Extraction in NLP [[arXiv]](https://arxiv.org/abs/2509.07801)  [[Dataset & Source Code]](https://github.com/AKADDC/SciNLP)
 * Using Full-text Content of Academic Articles to Build a Methodology Taxonomy of Information Science in China [[doi]](https://doi.org/10.5771/0943-7444-2021-2-126)  [[arxiv]](https://arxiv.org/abs/2101.07924) [[Demo: Methodology Taxonomy of Information Science in China](https://chengzhizhang.github.io/research/methodology_taxonomy/mtis.html)]
