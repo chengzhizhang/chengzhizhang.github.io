@@ -32,7 +32,7 @@ order:  7
 
 ## Alumni
 ### PhD
-* [Yi Zhao](https://www.researchgate.net/profile/Yi_Zhao162), PhD 2025, now: Assistant Professor at Anhui University.<br>
+* [Yi Zhao](https://yi-zhao060.github.io/homepage/), PhD 2025, now: Assistant Professor at Anhui University.<br>
   PhD Thesis: Relationship between the Diversity of Scientific Team Composition and the Team’s Scientific Creativity.
 * [Heng Zhang](https://www.researchgate.net/profile/Heng_Zhang118), PhD 2024, now: Assistant Professor at Central China Normal University.<br>
   PhD Thesis: Research Process Mining in a Specific Field Based on the Full Text of Academic Articles.
