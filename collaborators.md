@@ -40,7 +40,7 @@ order:  7
   PhD Thesis: Academic Influence Evaluation of Algorithm Entity Based on the Full Text Features of Academic Papers.
 * [Chenglei Qin](https://chengleiqin.github.io/), PhD 2023, now: Assistant Professor at Fuyang Normal University.<br>
   PhD Thesis: Fine-grained Mining of Peer Review Comments of Academic Articles.
-* [Yingyi Zhang](http://web.suda.edu.cn/zyy2/), PhD 2022, now: Assistant Professor at Soochow University.<br>
+* [Yingyi Zhang](http://web.suda.edu.cn/zyy2/), PhD 2022, now: Associate Professor at Soochow University.<br>
   PhD Thesis: Extracting the Relationship of “Problem-Method” in Academic Papers.
 * [Shuitan Ma](http://shutian.me/), PhD 2020, now: Data Scientist at Tencent Inc., China.<br>
   PhD Thesis: Citation Recommendation Based on Citing Time Preference and Argumentative Zoning of User Query.
