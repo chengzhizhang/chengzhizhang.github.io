@@ -29,6 +29,11 @@ order:  7
 * Jingyuan Li, 2024
 * Shuai Chen, 2024
 * Jitong Peng, 2024
+* Zhe Zhang, 2025
+* Xiaowang Zhang, 2025
+* Xiaoya Liu, 2025
+* Xinyi Fang, 2025
+* Qiuyu Fang, 2025
 
 ## Alumni
 ### PhD
