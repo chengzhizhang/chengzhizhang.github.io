@@ -7,6 +7,7 @@ order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
 ## 2025
+* [E10] Yi Zhang, Chengzhi Zhang & Kayvan Kousha. Editorial: artificial intelligence for scientometrics (Part I). ***Scientometrics***, 2025, 130(10): 5281-5284. [[doi]](https://doi.org/10.1007/s11192-025-05470-4)
 * [J89] Wenqing Wu, Chengzhi Zhang\*, Yi Zhao. Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge. ***Journal of the Association for Information Science and Technology***. 2025, 76(11): 1452-1469. [[doi]](https://doi.org/10.1002/asi.70005)  [[arXiv]](https://arxiv.org/abs/2507.11330)  [[Dataset & Source Code]](https://github.com/njust-winchy/originality_predict/)  [[Information Matters]](https://informationmatters.org/2025/07/assess-novelty-in-academic-research-a-human-ai-collaborative-approach/)
 * [J88] Chengzhi Zhang, Linlei Xie, Siqi Wei. Gender differences in research topic and method convergence among collaborating scholars in library and information science. ***Library & Information Science Research***, 2025, 47(2): 101353. [[doi]](https://doi.org/10.1016/j.lisr.2025.101353)
 * [J87] Chengzhi Zhang, Jiaqi Zeng, Yi Zhao. Is higher team gender diversity correlated with better scientific impact? ***Journal of Informetrics***, 2025, 19(2): 101662. [[doi]](https://doi.org/10.1016/j.joi.2025.101662)
