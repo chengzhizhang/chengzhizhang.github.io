@@ -19,7 +19,9 @@ order:  7
 * [Xinyi Yan](https://yan-xinyi.github.io/), Keyphrase Extraction and Generation.
 * [Yi Xiang](https://xiangyi-njust.github.io/), Novelty Measuring of Scientific Article.   
 * Hongye Zhao, Knowledge Entity Extraction and Evaluation.  
-* Chenggang Yang, Peer Reveiw Mining, Novelty Measuring of Scientific Article.  
+* Chenggang Yang, Peer Reveiw Mining, Novelty Measuring of Scientific Article.
+* Shuai Chen, Idea Generation.
+* Jitong Peng, Information Extraction.
 
 ### Master students
 * Linlei Xie, 2023
@@ -27,8 +29,6 @@ order:  7
 * Mingxiang Chen, 2023
 * Jiayi Hao, 2024
 * Jingyuan Li, 2024
-* Shuai Chen, 2024
-* Jitong Peng, 2024
 * Zhe Zhang, 2025
 * Xiaowang Zhang, 2025
 * Xiaoya Liu, 2025
