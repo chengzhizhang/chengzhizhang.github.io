@@ -1,25 +1,26 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
-# You can change `author1` to your shortname.
+# Change `author1` to your shortname.
 author1:
   name:              Chengzhi Zhang
-  location:          Nanjing, China
-  email:             zhangcz@njust.edu.cn
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Professor at NJUST
+    Professor at NJUST.
+    
+    Open `_data/authors.yml` to edit this text.
 
-  # This photo will be used in the about section.
+  # This photo will be used in the about section
   picture:
     path:            assets/img/me.jpg
 
-  # Social media icons in sidebar.
-  # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
-  social:      
-    GoogleScholar:    AzVBq00AAAAJ
-    github:           chengzhizhang
-    ResearchGate:     Chengzhi-Zhang-2 
-  # ORCID:            0000-0001-9522-2914
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  # You can also provide an absolute URL (starting with https://) instead of usernames
+  social:
+    github:          rxiacn
+    googlescholar:   https://scholar.google.com.hk/citations?user=Znde6gwAAAAJ
+    researchgate:    https://www.researchgate.net/scientific-contributions/Rui-Xia-70279001
     
