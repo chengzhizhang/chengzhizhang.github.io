@@ -53,7 +53,7 @@ order:  7
   PhD Thesis: Identifying Content Features of Domain Emerging Topics and its Application.
 * [Qingqing Zhou](https://www.researchgate.net/profile/Qingqing_Zhou8), PhD 2018, now: Associate Professor at Nanjing Normal University.<br>
   PhD Thesis: Book Impact Assessment Based on Multi-source Heterogeneous Data.
-* [Xiaolan Wu](https://www.researchgate.net/profile/Wu_Lan3), PhD 2018, now: Professor at Nanjing Normal University."
+* [Xiaolan Wu](https://www.researchgate.net/profile/Wu_Lan3), PhD 2018, now: Professor at Nanjing Normal University.<br>
   PhD Thesis: Finding Interdisciplinary Users on Social Media and Its Application.
 * [Lei Li](https://lileibnu.com/), PhD 2018, now: Associate Professor at Beijing Normal University.<br>
   PhD Thesis: Research on Answer Quality Judgement on Academic Social Q&A Sites.
