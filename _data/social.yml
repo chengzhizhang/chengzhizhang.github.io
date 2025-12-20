@@ -113,10 +113,13 @@ orcid:
   name: ORCID
   icon: icon-orcid
   prepend: "https://orcid.org/"
+# googlescholar:
+#  name: GoogleScholar
+#  icon: icon-googlescholar
+#  prepend: "https://scholar.google.com/citations?user=" 
 googlescholar:
-  name: GoogleScholar
-  icon: icon-googlescholar
-  prepend: "https://scholar.google.com/citations?user="  
+  name: Google Scholar
+  icon: icon-google
 npm:
   name: npm
   icon: icon-npm
