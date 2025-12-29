@@ -6,7 +6,7 @@ menu:   true
 order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
-## 2025
+## 2026
 * [J90]Yi Zhao, Yongjun Zhu, Donghun Kim, Yuzhuo Wang, Heng Zhang, Chao Lu, Chengzhi Zhang\*. The Effect of Gender Diversity on Scientific Team Impact: A Team Roles Perspective. ***Journal of Informetrics***, 2026 (in press) [[doi]]()   [[arXiv]]()
   
 ## 2025
