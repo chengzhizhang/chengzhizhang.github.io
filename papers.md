@@ -7,8 +7,7 @@ order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
 ## 2026
-* [J91] Haixu Xi, Heng Zhang, Chengzhi Zhang\*. Enhancing Academic Paper Recommendations Using Fine-Grained Knowledge Entities and Multifaceted Document Embeddings. ***Scientometrics***. 2026 (in press)   [[doi]]()   [[arXiv]]()   [[Dataset & Source Code]]()
-https://github.com/jsutxhx/SKG-AR
+* [J91] Haixu Xi, Heng Zhang, Chengzhi Zhang\*. Enhancing Academic Paper Recommendations Using Fine-Grained Knowledge Entities and Multifaceted Document Embeddings. ***Scientometrics***. 2026 (in press)   [[doi]]()   [[arXiv]]()   [[Dataset & Source Code]](https://github.com/jsutxhx/SKG-AR)
 * [J90] Yi Zhao, Yongjun Zhu, Donghun Kim, Yuzhuo Wang, Heng Zhang, Chao Lu, Chengzhi Zhang\*. The Effect of Gender Diversity on Scientific Team Impact: A Team Roles Perspective. ***Journal of Informetrics***, 2026, 20(1): 101766.  [[doi]](https://doi.org/10.1016/j.joi.2025.101766)   [[arXiv]](http://arxiv.org/abs/2512.23429)
 * [J89] Haomin Zhou, Ruxue Han, Jiangtao Zhong, Chengzhi Zhang\*. Which Review Aspect Has a Greater Impact on the Duration of Open Peer Review in Multiple Rounds? —— Evidence from Nature Communications. ***Aslib Journal of Information Management***. 2025 (in press) [[doi]](https://doi.org/10.1108/AJIM-02-2024-0158)
 * [J88] Ruxue Han, Haomin Zhou, Jiangtao Zhong, Chengzhi Zhang\*. Aspect-Based Sentiment Evolution and its Correlation with Review Rounds in Multi-Round Peer Reviews: A Deep Learning Approach. ***Data and Information Management***, 2026, 10(1): 100105. [[doi]](https://doi.org/10.1016/j.dim.2025.100105) [[Dataset & Source Code]](https://github.com/RuxueHan/Aspect-Sentiment-Analysis-of-Peer-Review-in-NC)
