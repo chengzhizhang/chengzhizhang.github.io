@@ -16,7 +16,7 @@ I am the leader of [IR&TM Group](https://chengzhizhang.github.io/collaborators/)
  
 ## Recent News
 * ***Call for Paper***: Special isssue about "Large Language Models for Scientometrics (LLM4SCIM)" at [***Scientometrics***](https://link.springer.com/collections/fcgfjgggfb)
-* In April 2026, one of our papers was accepted to [***ACL 2026***](https://2026.aclweb.org/) .  
+* In April 2026, a paper was accepted to [***ACL 2026***](https://2026.aclweb.org/) .  
 * Call for Paper: Joint Workshop of the 6th AI + Informetrics (AII) and the 7th Extraction and Evaluation of Knowledge Entities from Scientific Documents (EEKE): [***AII-EEKE 2026***](https://ai-informetrics.github.io/2026/) at FLINS-ISKE 2026, Sydney, Australia
 * Call for Paper: Special isssue about "LLMs for Scientific Literature Analysis and Mining" at [***Data and Information Management***](https://www.sciencedirect.com/journal/data-and-information-management/about/call-for-papers#llms-for-scientific-literature-analysis-and-mining)
 * In August 2025, two papers have been accepted to the [***EMNLP 2025***](https://2025.emnlp.org/).  
