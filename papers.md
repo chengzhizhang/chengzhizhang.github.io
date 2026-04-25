@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="图片" src="https://github.com/user-attachments/assets/3be4349e-125a-4580-9c9c-5b6130803d32" />﻿---
 layout: page
 title:  Publications
 cover:  false
