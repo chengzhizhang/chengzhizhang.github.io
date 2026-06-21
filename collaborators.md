@@ -11,9 +11,6 @@ order:  7
 
 ## Students
 ### PhD students
-* Bowen Li, Methodology in information science.
-* [Haixu Xi](https://www.researchgate.net/profile/Haixu_Xi2), Knowledge Entity Extraction and Evaluation.
-* [Chen Yang](https://yangchen199671.github.io/), Novelty Measuring of Scientific Article.
 * [Tong Bao](https://tongbao96.github.io/), Knowledge Entity Extraction, Automatic Summary Generation.
 * [Wenqing Wu](https://njust-winchy.github.io/), Peer Reveiw Mining, Novelty Measuring of Scientific Article.
 * [Xinyi Yan](https://yan-xinyi.github.io/), Keyphrase Extraction and Generation.
@@ -37,11 +34,13 @@ order:  7
 
 ## Alumni
 ### PhD
+* [Haixu Xi](https://www.researchgate.net/profile/Haixu_Xi2), Phd 2026, now:  Associate Professor at Jiangsu University of Technology.<br>
+  PhD Thesis: Citation Recommendation by Integrating Fine-grained Knowledge Entities and Citation Motivations.
 * [Yi Zhao](https://yi-zhao060.github.io/homepage/), PhD 2025, now: Assistant Professor at Anhui University.<br>
   PhD Thesis: Relationship between the Diversity of Scientific Team Composition and the Team’s Scientific Creativity.
 * [Heng Zhang](https://www.researchgate.net/profile/Heng_Zhang118), PhD 2024, now: Assistant Professor at Central China Normal University.<br>
   PhD Thesis: Research Process Mining in a Specific Field Based on the Full Text of Academic Articles.
-* [Yuzhuo Wang](https://www.researchgate.net/profile/Yuzhuo_Wang7), PhD 2023, now: Assistant Professor at Anhui University.<br>
+* [Yuzhuo Wang](https://www.researchgate.net/profile/Yuzhuo_Wang7), PhD 2023, now: Associate Professor at Anhui University.<br>
   PhD Thesis: Academic Influence Evaluation of Algorithm Entity Based on the Full Text Features of Academic Papers.
 * [Chenglei Qin](https://chengleiqin.github.io/), PhD 2023, now: Assistant Professor at Fuyang Normal University.<br>
   PhD Thesis: Fine-grained Mining of Peer Review Comments of Academic Articles.
@@ -93,7 +92,9 @@ order:  7
 * Lijuan Tang，MSc 2013, master thesis: Multilingual Tags Clustering and Its Application. 
 * Sha Liu，MSc 2012, master thesis: Building and Evaluating Special Domain Comparable Corpus. 
 
-### Undergraduates
+### Others
+* Bowen Li, Methodology in information science.
+* [Chen Yang](https://yangchen199671.github.io/), Novelty Measuring of Scientific Article.
 
 ---
 
