@@ -6,6 +6,9 @@ menu:   true
 order:  3
 ---
  (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
+## 2027
+* [J104] Chengzhi Zhang, Xinyi Yan, Wenqi Yu.  Leveraging Human Reading Behavior for Keyphrase Extraction: A Webcam-based Eye-tracking Corpus. Aslib Journal of Information Management, 2026.  [[doi]]()   [[arXiv]](https://arxiv.org/abs/2608.10688)   [[Dataset & Source Code]](https://github.com/yan-xinyi/ET_AKE)
+
 ## 2026
 * [P8] Yi Zhang, Chengzhi Zhang, Philipp Mayr. From Knowledge Extraction to Technological Forecasting. Springer Cham, 2026. [[Springer]](https://link.springer.com/book/9783032293022)  [[Amazon]](https://www.amazon.co.uk/Knowledge-Extraction-Technological-Forecasting-Intelligence/dp/3032293022)
 * [J103] Chengzhi Zhang, Jiayi Hao, Yi Mao. Research method usage across academic ages in library and information science: An empirical study (1990–2023). ***Library & Information Science Research***, 2026, 48(2-3): 101414.  [[doi]](https://doi.org/10.1016/j.lisr.2026.101414)   [[arXiv]](https://arxiv.org/abs/2606.21862)
