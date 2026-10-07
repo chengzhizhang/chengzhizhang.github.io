@@ -41,7 +41,7 @@ order:  6
 ## Program Committee Member 
 
 * ***IS field***: ASIS&T, JCDL, iConference, ISSI, STI, GTM, SDP, AI4SciSci, ICEBE, COINFO, etc.
-* ***NLP & AI-related fields***: IJCAI, ACL, EMNLP, NAACL, CIKM, COLM, IJCKG, WWW, EACL, ECAI, AACL, IJCNLP, NLPCC, SMP, CCIR, CCKS, NLPOE, IWWIP, etc.
+* ***NLP & AI-related fields***: IJCAI, AAAI, ACL, EMNLP, NAACL, CIKM, COLM, IJCKG, WWW, EACL, ECAI, AACL, IJCNLP, NLPCC, SMP, CCIR, CCKS, NLPOE, IWWIP, etc.
 
 
 # Journal Services 
