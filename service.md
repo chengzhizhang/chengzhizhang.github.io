@@ -30,8 +30,8 @@ order:  6
 * [***iConference***](https://www.ischools.org/iconference)(2024)
 * [***Joint Conference on Digital Libraries (JCDL)***](https://2024.jcdl.org/)(2024)
 
-## Session Chair 
-* JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
+## Area/Session Chair 
+* WWW, JCDL, iConference, GTM, ASIS&T Asia-Pacific Regional Conference, CCIR, SMP, etc.
 
 ## Senior Program Committee Member  
 * [***WWW***](https://www2025.thewebconf.org/)(2025)
