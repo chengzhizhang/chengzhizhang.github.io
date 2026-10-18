@@ -5,7 +5,7 @@ cover:  false
 menu:   true
 order:  3
 ---
- (*=Corresponding author, P=Proceedings, E=Editorial of journal special issue, J=Journal articles, C=Conference papers/posters)
+ (*******=Corresponding author, ***P***=Proceedings, ***E***=Editorial of journal special issue, ***J***=Journal articles, ***C***=Conference papers/posters)
 ## 2027
 * [J106] Chengzhi Zhang, Xinyi Yan, Wenqi Yu.  Leveraging Human Reading Behavior for Keyphrase Extraction: A Webcam-based Eye-tracking Corpus. Aslib Journal of Information Management, 2027.  [[doi]](https://doi.org/10.1108/AJIM-05-2025-0248)   [[arXiv]](https://arxiv.org/abs/2608.10688)   [[Dataset & Source Code]](https://github.com/yan-xinyi/ET_AKE)
 * [J105] Yi Zhao, Heng Zhang, Yuzhuo Wang, Wenqing Wu, Tong Bao, Chengzhi Zhang\*. Measuring the Novelty of Biomedical Papers Using the Latent Distances between Knowledge Units. ***Journal of Information Science***, 2027. [[doi]](https://doi.org/10.1177/01655515261489497)   [[arXiv]](https://arxiv.org/abs/2609.05175)  
