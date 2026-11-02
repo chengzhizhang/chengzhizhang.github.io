@@ -7,7 +7,9 @@ order:  3
 ---
  (***\****=Corresponding author, ***P***=Proceedings, ***E***=Editorial of journal special issue, ***J***=Journal articles, ***C***=Conference papers/posters)
 ## 2027
-* [J106] Chengzhi Zhang, Xinyi Yan, Wenqi Yu.  Leveraging Human Reading Behavior for Keyphrase Extraction: A Webcam-based Eye-tracking Corpus. Aslib Journal of Information Management, 2027.  [[doi]](https://doi.org/10.1108/AJIM-05-2025-0248)   [[arXiv]](https://arxiv.org/abs/2608.10688)   [[Dataset & Source Code]](https://github.com/yan-xinyi/ET_AKE)
+* [J107] Chengzhi Zhang, Xinyi Yan, Wenqi Yu.  Leveraging Human Reading Behavior for Keyphrase Extraction: A Webcam-based Eye-tracking Corpus. Aslib Journal of Information Management, 2027.  [[doi]](https://doi.org/10.1108/AJIM-05-2025-0248)   [[arXiv]](https://arxiv.org/abs/2608.10688)   [[Dataset & Source Code]](https://github.com/yan-xinyi/ET_AKE)
+* [J106] Yingyi Zhang, Chengzhi Zhang*. Enhancing Knowledge Entity Relation Extraction in Abstracts and Full-text Content of Academic Articles Using Large Language Models. Scientometrics. 2026, 131(5): 3547–3584. [doi] [arXiv] [Dataset & Source Code]
+
 * [J105] Yi Zhao, Heng Zhang, Yuzhuo Wang, Wenqing Wu, Tong Bao, Chengzhi Zhang\*. Measuring the Novelty of Biomedical Papers Using the Latent Distances between Knowledge Units. ***Journal of Information Science***, 2027. [[doi]](https://doi.org/10.1177/01655515261489497)   [[arXiv]](https://arxiv.org/abs/2609.05175)  
 * [J104] Tong Bao, Yi Zhao, Heng Zhang, Chengzhi Zhang\*. Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach.  ***Expert Systems With Applications***, 2027, 333: 133983.  [[doi]](https://doi.org/10.1016/j.eswa.2026.133983)  [[arXiv]](http://arxiv.org/abs/2608.08636)  [[Dataset & Source Code]](https://github.com/tongbao96/code-for-SciNER)
 
